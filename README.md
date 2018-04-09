@@ -8,4 +8,13 @@ The make file define the compilation of the C++ file hello.cpp. So, the successf
 
 [<img alt="Build Status" src="https://travis-ci.org/prashplus/travis-ci-demo.svg?branch=master" height="40">][travis-url]
 
+
+## Authors
+
+* **Prashant Piprotar** - - [Prash+](https://github.com/prashplus)
+
+Visit my blog for more Tech Stuff
+### http://www.prashplus.com
+
+
 [travis-url]: https://travis-ci.org/prashplus/travis-ci-demo
